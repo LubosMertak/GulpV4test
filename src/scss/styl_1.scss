@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  font-style: oblique;
+  > #container {
+    text-align:left;
+    margin:0 auto;
+    margin-top: 10px;
+    border-top: none;
+  }
+}
